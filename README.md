@@ -1,4 +1,4 @@
-# love_calculator
+# LOVE_CALCULATOR
 
 
 
